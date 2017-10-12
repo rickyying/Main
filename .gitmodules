@@ -1,4 +1,4 @@
 [submodule "Sub"]
 	path = Sub
 	url = https://github.com/rickyying/Sub
-	master = master
+	master = origin/master
